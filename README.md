@@ -1,12 +1,21 @@
-# Example Python Flask Crud
+# Back End Production Challenge
 
- Simple example python flask crud app for sqlite.
+ Welcome to the BE Production Challenge 💪 !
+
+ This is a very basic CRUD flask web app, using sqlite as DB and basic entries model.
  
-## Screenshots
-
-
-![image](screenshots.png)  
+ Thanks for gurkanakdeniz - It is forked from his repo [here](https://github.com/gurkanakdeniz/example-flask-crud)
  
+# The Challenge
+ 
+ your team was tasked with bringing this web app closer to production grade app; 
+ As a production champion you have decided to take on the challenge and do the following: 
+ - Replace the sqlite db with a production grade db of your choice
+ - Add an e-2-e test for the delete method
+ - Package the app using Docker
+ - Use a CI/CD pipeline to run the tests on each commit; 
+
+  Good luck ☘️ ️with your ticket ! 
  
 ### Installing (for linux)
 
