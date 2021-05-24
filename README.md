@@ -2,18 +2,18 @@
 
  Welcome to the BE Production Challenge 💪 !
 
- This is a very basic CRUD flask web app, using sqlite as DB and basic entries model.
- 
- Thanks for gurkanakdeniz - It is forked from his repo [here](https://github.com/gurkanakdeniz/example-flask-crud)
- 
+ This is a very basic CRUD flask web app, using sqlite as DB with an entries model.
+
+ It is forked from [this repo](https://github.com/gurkanakdeniz/example-flask-crud)
+  
 # The Challenge
  
- your team was tasked with bringing this web app closer to production grade app; 
+ your team was tasked with bringing this web app closer to production grade level; 
  As a production champion you have decided to take on the challenge and do the following: 
  - Replace the sqlite db with a production grade db of your choice
- - Add an e-2-e test for the delete method
+ - Add an e-2-e test for the delete method *only* (let other team members follow your lead and implement the rest)
  - Package the app using Docker
- - Use a CI/CD pipeline to run the tests on each commit; 
+ - Use a CI/CD pipeline (on git hub/lab/bucket etc.) to run the tests on each commit; 
 
   Good luck ☘️ ️with your ticket ! 
  
