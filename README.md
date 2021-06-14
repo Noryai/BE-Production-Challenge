@@ -12,7 +12,7 @@ This BE Production Challenge allows you to demonstrate your skills in Back end a
 
 It will likely take 3-4 hours total, but if you find it's taking longer than that, just wrap up what you have and finish off with some pseudo-code to explain what you would do next. Seeing how you prioritize under time restrictions is really useful too.
 
-After you complete this challenge we will have a meeting where you will present and discuss your approach;
+After you complete this challenge we will have a meeting where you will present and discuss this project, see more details in the [What We'll Talk about in the Call Section](#what-well-talk-about-in-the-call).
 
 
  
