@@ -18,9 +18,11 @@ After you complete this challenge we will have a meeting where you will present 
  
 ## Overview
  
- Your team was tasked with bringing this web app closer to production grade level; 
- As a production champion you have decided to take on the challenge and do the following:
- ## Technical Requisite
+ Your team was tasked with creating a backend for CRUD operations of some resources. They have come up with the models and a basic Flask app to manage it. However, the app is far from ready for production. 
+
+
+### Technical Requisite
+As a production champion you have decided to take on the challenge and do the following
 
 1.  **Must** - Replace the sqlite db with a production grade db of your choice.
 2.  **Must** - Add an e-2-e test for the delete method *only* (let other team members follow your lead and implement the rest).
